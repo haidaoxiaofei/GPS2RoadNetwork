@@ -29,9 +29,13 @@ Reading list of the topic about utilizing vehicle generated GPS data to update r
 	2. [*Automatic Generation and Validation of Road Maps from GPS Trajectory Data Sets*](/papers/p1523-li.pdf)
 	3. [*Choosing thresholds for density-based map construction algorithms*](/papers/a24-ahmed.pdf)
 	4. [*Map Custruction Project*](http://mapconstruction.org). The comparison and evaluation of many existing algorithms. Codes and datasets available! Their paper is also avaialbe [here](/papers/comparisonMapConstruction.pdf).
-
+	5. [*Inferring Road Maps from Global Positioning System Traces*](/papers/2291-08.pdf). Eleven papers compared. Three algorithms are open sourced, which are used in the above project.
 	
+4. Map Matching
 
+	1. [*A critical review of real-time map-matching algorithms: Current issues and future directions*](/papers/1-s2.0-S0198971514000908-main.pdf)
+	2. [*Current map-matching algorithms for transport applications: State-of-the art and future research directions*](/papers/1-s2.0-S0968090X07000265-main.pdf)
+	3. [*High accuracy tightly-coupled integrity monitoring algorithm for map-matching*](/papers/1-s2.0-S0968090X13001629-main.pdf)
 	
 	
 **Tools**
