@@ -1,4 +1,4 @@
-## Note on <Constructing Street Networks from GPS Trajectories>
+## Note on *Constructing Street Networks from GPS Trajectories*
 
 ### Key Point
 
