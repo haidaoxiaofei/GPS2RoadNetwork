@@ -30,8 +30,9 @@ Reading list of the topic about utilizing vehicle generated GPS data to update r
 	3. [*Choosing thresholds for density-based map construction algorithms*](/papers/a24-ahmed.pdf)
 	4. [*Map Custruction Project*](http://mapconstruction.org). The comparison and evaluation of many existing algorithms. Codes and datasets available! Their paper is also avaialbe [here](/papers/comparisonMapConstruction.pdf).
 	5. [*Inferring Road Maps from Global Positioning System Traces*](/papers/2291-08.pdf). Eleven papers compared. Three algorithms are open sourced, which are used in the above project.
-	6. [*Constructing street networks from GPS trajectories. In Proc. European Symp. on Algorithms*](http://cs.utsa.edu/~mahmed/Publications/csm_esa2012.pdf)/ [slide](http://algo12.fri.uni-lj.si/reg/proc/presentations/IitsUwfgHiFhcKptMVSlFPedl.pdf) /[note](notes/note_Ahem.md)
-	7. [*Map inference in the face of noise and disparity. *](http://www.cs.uic.edu/pub/Bits/JamesBiagioni/biagioni-gis12.pdf)/ [slide](http://www.cs.uic.edu/pub/Bits/JamesBiagioni/biagioni-gis12-slides.pdf)/[note](notes/note_Biagioni12.md)
+	6. [*Constructing street networks from GPS trajectories. In Proc. European Symp. on Algorithms*](http://cs.utsa.edu/~mahmed/Publications/csm_esa2012.pdf)/ [slide](http://algo12.fri.uni-lj.si/reg/proc/presentations/IitsUwfgHiFhcKptMVSlFPedl.pdf)/ [note](notes/note_Ahem.md)
+	7. [*Map inference in the face of noise and disparity*](http://www.cs.uic.edu/pub/Bits/JamesBiagioni/biagioni-gis12.pdf)/ [slide](http://www.cs.uic.edu/pub/Bits/JamesBiagioni/biagioni-gis12-slides.pdf)/ [note](notes/note_Biagioni12.md)
+	8. [*On vehicle tracking data-based road network generation*](/papers/nwcreation_GIS_2012.pdf)/ [note](/notes/note_Karagiorgou12.md)
 	
 4. Map Matching
 
