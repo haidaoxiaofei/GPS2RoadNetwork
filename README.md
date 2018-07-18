@@ -1,6 +1,9 @@
 # GPS2RoadNetwork
 Reading list of the topic about utilizing vehicle generated GPS data to update road networks
 
+[![Waffle.io - Issues in progress](https://badge.waffle.io/haidaoxiaofei/GPS2RoadNetwork.png?label=in%20progress&title=In%20Progress)](http://waffle.io/haidaoxiaofei/GPS2RoadNetwork)
+
+
 **Targets**
 ==
 
